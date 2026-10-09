@@ -67,5 +67,5 @@ func (fs *realFileSystem) Glob(pattern string) ([]string, error) {
 }
 
 func (fs *realFileSystem) ReadFile(path string) ([]byte, error) {
-	return ioutil.ReadFile(path)
+	return os.ReadFile(path)
 }
