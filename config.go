@@ -1,3 +1,4 @@
+// Package config loads and validates Nacelle configuration from environment variables, files, flags and other sourcers.
 package config
 
 import (
