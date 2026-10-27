@@ -9,3 +9,7 @@
 ---
 
 See the package documentation on [nacelle.dev](https://nacelle.dev/docs/topics/config).
+
+## Support
+
+To get help or report a problem, please open an issue on this repository's GitHub issue tracker.
