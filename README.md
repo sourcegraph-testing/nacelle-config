@@ -9,3 +9,7 @@
 ---
 
 See the package documentation on [nacelle.dev](https://nacelle.dev/docs/topics/config).
+
+## Support
+
+For questions, bug reports, or feature requests, please [open an issue on GitHub](https://github.com/sourcegraph-testing/nacelle-config/issues).
